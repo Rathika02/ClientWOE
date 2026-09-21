@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+publish/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local settings / secrets
+appsettings.Local.json
+appsettings.*.local.json
+*.pfx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
